@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+h3, h1{
+
+    font-family: 'Anton', sans-serif;
+
+
+
+}
+
+
+
+body{
+
+    background: whitesmoke;
+
+
+}
+
+
+
+
+
+button:hover{
+
+    cursor: pointer;
+    box-shadow: 10px;
+    border-radius: 1em;
+}
